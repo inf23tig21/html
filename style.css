@@ -6,7 +6,8 @@ body {
 }
 
 header {
-    background-image: url('transferir.jpg');
+    background-attachment: scroll;
+    background-image: url('banner.jpg');
     background-size: cover; /* Make sure the background covers the whole header */
     background-position: center; /* Center the background image */
     color: rgb(245, 4, 4); /* Optional: Change text color for better visibility */
@@ -31,5 +32,9 @@ main {
 nav a {
     color: #faf7f7;
     text-decoration: nome;
+    text-align: center;
+}
+
+table {
     text-align: center;
 }
