@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.aluguercampos.com/reserva_campo" xmlns="http://www.aluguercampos.com/reserva_campo"
+elementFormDefault="qualified">
+
+    <xs:element name="AluguerCampos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Campo" type="CampoType" maxOccurs="unbounded"/>
+                <xs:element name="Reservas" type="ReservasType" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+                    <xs:complexType name="CampoType">
+                        <xs:sequence>
+                            <xs:element name="Nome" type="xs:string"/>
+                            <xs:element name="Localizacao" type="xs:string"/>
+                            <xs:element name="Tipo" type="xs:string"/>
+                            <xs:element name="PrecoPorHora" type="xs:decimal"/>
+                            <xs:element name="Horarios" type="HorariosType"/>
+                        </xs:sequence>
+        </xs:complexType>
+                            
+          <xs:complexType name="HorariosType">
+            <xs:sequence>
+             <xs:element name="Horario" type="HorarioType" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+                            
+          <xs:complexType name="HorarioType">
+            <xs:sequence>
+             <xs:element name="Dia" type="xs:string"/>
+             <xs:element name="HorarioAbertura" type="xs:time"/>
+             <xs:element name="HorarioFecho" type="xs:time"/>
+            </xs:sequence>
+          </xs:complexType>
+          
+              <xs:complexType name="ReservasType">
+               <xs:sequence>
+                <xs:element name="Reserva" type="ReservaType" maxOccurs="unbounded"/>
+               </xs:sequence>
+              </xs:complexType>
+          
+          <xs:complexType name="ReservaType">
+            <xs:sequence>
+              <xs:element name="NomeCampo" type="xs:string"/>
+              <xs:element name="Cliente" type="xs:string" minOccurs="0"/>
+              <xs:element name="Data" type="xs:date" minOccurs="0"/>
+              <xs:element name="HoraInicio" type="xs:time" minOccurs="0"/>
+              <xs:element name="HoraFim" type="xs:time" minOccurs="0"/>
+              <xs:element name="PrecoTotal" type="xs:decimal" minOccurs="0"/>
+             </xs:sequence>
+            </xs:complexType>                                                 
+</xs:schema>
