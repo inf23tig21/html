@@ -1,0 +1,35 @@
+style.css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('transferir.jpg');
+    background-size: cover; /* Make sure the background covers the whole header */
+    background-position: center; /* Center the background image */
+    color: rgb(245, 4, 4); /* Optional: Change text color for better visibility */
+    padding: 20px; /* Add some padding for better spacing */
+    text-align: center; /* Center the header content */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: o;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+main {
+    background-color: rgb(173, 234, 253);
+    padding: 20px
+}
+nav a {
+    color: #faf7f7;
+    text-decoration: nome;
+    text-align: center;
+}
