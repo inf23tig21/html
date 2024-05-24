@@ -13,6 +13,7 @@ header {
     background-image: url('banner.jpg');
     background-size: cover; /* Make sure the background covers the whole header */
     background-position: center; /* Center the background image */
+    text-align: center;
 }
 
 nav.menu{
@@ -105,3 +106,38 @@ opacity: 1;
 transform: translateY(0px);
 }
 
+/* container */
+.content-with-sidebars {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/* columns */
+.content-with-sidebars > * {
+    text-align: center;
+    width:90%;
+    padding:1rem;
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .content-with-sidebars > * {
+        width:50%;
+    }
+    .content-with-sidebars > *:nth-child(1) {
+        width:100%;
+    }
+}
+
+/* desktop breakpoint */
+@media (min-width:1024px) {
+    .content-with-sidebars > * {
+        width:30%;
+    }
+    .content-with-sidebars > *:nth-child(1) {
+        width:30%;
+    }
+    .content-with-sidebars > *:nth-child(2) {
+        order:-1;
+    }
+}
