@@ -6,6 +6,9 @@
     <title>Aluguer de Campos de Jogos - Home</title>
     <link rel=stylesheet href="style.css">
     <link rel=stylesheet href="styles.css">
+    <link rel=stylesheet href="galeria.css">
+    <script src="galeria.js"></script>
+    <script src="download.js"></script>
 </head>
 <body>
     <header>
@@ -13,7 +16,6 @@
         <nav class="menu line">
             <ul>
                 <a href="index.html" title="Home">Home</a>
-                <a href="campos.html" title="Campos">Campos</a>
                 <a href="reservas.html" title="Reservas">Reservas</a>
                 <a href="contactos.html" title="Contactos">Contactos</a>
             </ul>
@@ -24,24 +26,45 @@
 
             <div class="content-with-sidebars">
                 <div>
-                    <h3>Campos de Futebol</h3>
-                    <figure>
-                        <img src="https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fmno_campo_jogos_parque_cidade_07.jpg&w=1460&q=85" alt="Campo de Futebol" width="200" height="150">
-                    </figure>
+                    <button onclick="startSlideshow('gallery1')">Galeria Futebol</button>
+                    <div class="gallery" id="gallery1">
+                        
+                        <img src="galeria/futebol_banner.jpg" alt="Futebol">
+                       
+                    </div>
+                    
+                    <div id="myModal1" class="modal">
+                        <span class="close" onclick="closeModal('myModal1')">&times;</span>
+                        <img id="modalImg1" class="modal-content" src="">
+                    </div>
                 </div>
                         
                 <div>
-                    <h3>Campos de Padel</h3>
-                    <figure>
-                        <img src="https://almadense.sapo.pt/wp-content/uploads/2023/05/padel-cristo.jpg" alt="Campo de Padel" width="200" height="150">
-                    </figure>
+                    <button onclick="startSlideshow('gallery2')">Galeria Padel</button>
+                    <div class="gallery" id="gallery2">
+                        
+                        <img src="galeria/padel_banner.jpg" alt="Padel">
+                        
+                    </div>
+                    
+                    <div id="myModal2" class="modal">
+                        <span class="close" onclick="closeModal('myModal2')">&times;</span>
+                        <img id="modalImg2" class="modal-content" src="">
+                    </div>
                 </div>
                 
                 <div>
-                    <h3>Campos de Ténis</h3>
-                    <figure>
-                        <img src="https://uf-cacemsmarcos.pt/fotos/202105/5088-DSCN0237.jpg" alt="Campo de Tenis" width="200" height="150">
-                    </figure>
+                    <button onclick="startSlideshow('gallery3')">Galeria Ténis</button>
+                    <div class="gallery" id="gallery3">
+                        
+                        <img src="galeria/tenis_banner.jpg" alt="Tenis">
+                        
+                    </div>
+                    
+                    <div id="myModal3" class="modal">
+                        <span class="close" onclick="closeModal('myModal3')">&times;</span>
+                        <img id="modalImg3" class="modal-content" src="">
+                    </div>
                 </div>
                 
             </div>
@@ -51,7 +74,7 @@
                
         </section>
         
-        
+        <a href="#" onclick="openPopupAndDownload('Flyer Campos Jogos.png'); return false;">Download Preçário</a>   
             
     </main>
     <hr/>
