@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aluguer de Campos de Jogos - Contactos</title>
+    <link rel=stylesheet href="Contactos.css">
+
+</head>
+<body>
+    <header>
+        <h1>Aluguer de Campos de Jogos</h1>
+        <nav class="menu line">
+            <ul>
+                <a href="aluguer_campos_2.html">Home</a>
+                <a href="campos.html">Campos</a>
+                <a href="reservas.html">Reservas</a>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Contacte-nos</h2>
+            <form action="envia_formulario.php" method="post">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" size="40" required>
+                <br>
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" size="40" required>
+                <br>
+                <br>
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required></textarea>
+                <br>
+                <br>
+                <button type="submit">Enviar</button>
+                <br/>
+            </form>
+        </section>
+    </main>
+    <hr/>
+    <footer>
+        <address>
+            Outras informações: 
+            <p><a href="mailto:info@camposdejogos.com">info@camposdejogos.com</a></p>
+            <p>Telefone: +351 21 123 4567</p>
+            <p>Telemóvel: +351 98 765 4321</p>
+        </address>
+    </footer>
+</body>
+</html>
