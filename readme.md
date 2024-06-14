@@ -11,15 +11,20 @@ A área temática é o Desporto. Para este trabalho, decidimos efectuar um traba
 - página Campos, onde existe uma galeria para cada tipo de campo, e é possivel efectuar o download do preçário
 - página de Reservas, onde consta a tabela de preços e é possivel ao utilizador preencher um formulário para a reserva do campo,
 - página Contactos, onde é possivel ao utilizador entrar em contacto com a empresa, através de um formulário.
+.....
 
 ## Organização do repositório
-Por favor, ajude o leitor a navegar descrevendo como o repositório está organizado, fornecendo links:
+O repositório está organizado da seguinte forma:
 
-- O código-fonte está na pasta `src`.
-- Os capítulos do relatório estão na pasta `doc`.
+- pasta css - contem todos os css que foram desenvolvidos e em utilização no HTML
+- pasta js - contem todos os js que foram desenvolvidos e em utilização no HTML
+- pasta galeria - contem todas as imagens em utilização no HTML
+.... ficheiros HTML
+..... 
 
 ## Galeria 1
-Por favor, forneça uma galeria do resultado final, com pequenas imagens. Uma tabela pode ser útil para organizar as imagens.
+
+... Por favor, forneça uma galeria do resultado final, com pequenas imagens. Uma tabela pode ser útil para organizar as imagens.
 
 | Imagem 1 | Imagem 2 |
 | -------- | -------- |
