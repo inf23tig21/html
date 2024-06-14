@@ -1,4 +1,4 @@
-# Trabalho de Grupo
+# Trabalho de Grupo21
 
 ## Título
 Repositório do trabalho relativo ao M2 da disciplina de Tecnologias de Internet, do Curso de Licenciatura de Informática da Universidade da Maia. 
@@ -11,7 +11,7 @@ A área temática é o Desporto. Para este trabalho, decidimos efectuar um traba
 - página Campos, onde existe uma galeria para cada tipo de campo, e é possivel efectuar o download do preçário
 - página de Reservas, onde consta a tabela de preços e é possivel ao utilizador preencher um formulário para a reserva do campo,
 - página Contactos, onde é possivel ao utilizador entrar em contacto com a empresa, através de um formulário.
-.....
+- .....
 
 ## Organização do repositório
 O repositório está organizado da seguinte forma:
@@ -19,8 +19,8 @@ O repositório está organizado da seguinte forma:
 - pasta css - contem todos os css que foram desenvolvidos e em utilização no HTML
 - pasta js - contem todos os js que foram desenvolvidos e em utilização no HTML
 - pasta galeria - contem todas as imagens em utilização no HTML
-.... ficheiros HTML
-..... 
+- .... ficheiros HTML
+- ..... 
 
 ## Galeria Padel
 
@@ -38,7 +38,7 @@ O repositório está organizado da seguinte forma:
 
 | Imagem 1 | Imagem 2 | Imagem 3 | Imagem 4 | Imagem 5 |
 | -------- | -------- | -------- | -------- | -------- |
-| ![Futebol Banner](https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fmno_campo_jogos_parque_cidade_07.jpg&w=1460&q=85) | ![Futebol](/galeria/courts_1838_1554984559.jpg) |![Futebol 1](/galeria/large_14633358_1199378666775348_6425216611299065351_o.jpg) | ![Futebol 2](/galeria/campaign1.jp) |![Futebol 3](/galeria/2019-11-07.jpg) |
+| ![Futebol Banner](https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fmno_campo_jogos_parque_cidade_07.jpg&w=1460&q=85) | ![Futebol](/galeria/courts_1838_1554984559.jpg) |![Futebol 1](/galeria/large_14633358_1199378666775348_6425216611299065351_o.jpg) | ![Futebol 2](/galeria/campaign1.jpg) |![Futebol 3](/galeria/2019-11-07.jpg) |
 
 ## Tecnologias
 No trabalho foram utilizadas as seguintes tecnologias:
