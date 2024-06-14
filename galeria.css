@@ -6,7 +6,7 @@
 
 .gallery img {
     width: auto; /* Largura desejada */
-    height: 400px; /* Altura desejada */
+    height: 300px; /* Altura desejada */
     object-fit: cover; /* Faz com que a imagem mantenha sua proporção e preencha o espaço definido */
     margin: 10px;
 }
@@ -53,13 +53,14 @@
 button {
     font-family: 'Courier New', Courier, monospace; /* Define o tipo de letra do botão */
     font-size: 28px; /* Define o tamanho da fonte */
-    background-color: #008CBA; /* Cor de fundo do botão */
+    font-style: italic;
+    background-color: #aee5f7; /* Cor de fundo do botão */
     color: black; /* Cor do texto do botão */
     padding: 10px 20px; /* Espaçamento interno do botão */
-    border: none; /* Remove a borda do botão */
+    border: double;
     cursor: pointer; /* Cursor do mouse ao passar sobre o botão */
 }
 
 button:hover {
-    background-color: #005f6b; /* Cor de fundo do botão ao passar o mouse */
+    background-color: #0950e9; /* Cor de fundo do botão ao passar o mouse */
 }
