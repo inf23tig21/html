@@ -3,10 +3,14 @@
 ## Título
 Repositório do trabalho relativo ao M2 da disciplina de Tecnologias de Internet, do Curso de Licenciatura de Informática da Universidade da Maia. 
 Desenvolvido pelo Grupo 21: 
-@AmFilipe, @joaoismai, @A044409.
+@A044409, @AmFilipe, @joaoismai.
 
 ## Breve descrição do tema
-Um exemplo de relatório usando markdown no Github. Esta documentação é escrita usando Markdown. Aqui está um [link para a sintaxe básica](https://www.markdownguide.org/basic-syntax/), mas também está disponível uma [sintaxe alargada](https://www.markdownguide.org/extended-syntax/). Se está a começar a utilizar o Markdown, poderá querer experimentar um [Tutorial Markdown](https://www.markdowntutorial.com/) e ler a [secção de introdução](https://www.markdownguide.org/getting-started/).
+A área temática é o Desporto. Para este trabalho, decidimos efectuar um trabalho sobre uma empresa de aluguer de Campos de Jogos, nomeadamente, Campos de Ténis, Campos de Paddle e Campos de Futebol. Foram desenvolvidas quatro páginas
+- página do Index, onde é feita um descrição da empresa, e é possivel efectuar o download do preçário
+- página Campos, onde existe uma galeria para cada tipo de campo, e é possivel efectuar o download do preçário
+- página de Reservas, onde consta a tabela de preços e é possivel ao utilizador preencher um formulário para a reserva do campo,
+- página Contactos, onde é possivel ao utilizador entrar em contacto com a empresa, através de um formulário.
 
 ## Organização do repositório
 Por favor, ajude o leitor a navegar descrevendo como o repositório está organizado, fornecendo links:
@@ -19,7 +23,7 @@ Por favor, forneça uma galeria do resultado final, com pequenas imagens. Uma ta
 
 | Imagem 1 | Imagem 2 |
 | -------- | -------- |
-| ![Imagem 1](\galeria\2019-11-07.jpg) | ![Imagem 2](link_da_imagem_2) |
+| ![Imagem 1](link_imagem_1) | ![Imagem 2](link_da_imagem_2) |
 
 ## Tecnologias
 No trabalho foram utilizadas as seguintes tecnologias:

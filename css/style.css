@@ -1,0 +1,51 @@
+style.css
+
+table {
+    text-align: center;
+}
+
+dt {
+    font-weight: bold;
+}
+
+header {
+    background-attachment: scroll;
+    background-image: url('../galeria/banner.jpg');
+    background-size: cover; /* Make sure the background covers the whole header */
+    background-position: center; /* Center the background image */
+    text-align: center;
+}
+
+nav.menu{
+    top: 0;
+   width:100%;
+   float:center;
+   text-align:center; 
+   
+
+}
+h1{
+    text-align:center; 
+   padding-top: 20px;
+}
+nav a {
+position: relative;
+display: inline-block;
+margin: 16px 20px;
+outline: none;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+font-size: 1.3em;
+transition:0.6s; 
+
+}
+
+nav a:hover, nav a:focus {
+
+transition:0.6s;
+outline: none;
+color:#000; 
+
+}
+
