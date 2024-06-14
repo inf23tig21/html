@@ -26,13 +26,19 @@ O repositório está organizado da seguinte forma:
 
 | Imagem 1 | Imagem 2 | Imagem 3 | Imagem 4 | Imagem 5 | Imagem 6 | Imagem 7 | Imagem 8 | Imagem 9 | Imagem 10 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| ![Padel Banner](/galeria/padel_banner) | ![Padel](/galeria/padel.jpg) |![Padel 1](/galeria/padel1.jpg) | ![Padel 2](/galeria/padel2.jpeg) |![Padel 3](/galeria/padel3.jpeg) |![Padel 4](/galeria/padel4.jpg) |![Padel 5](/galeria/padel5.jpg) |![Padel 6](/galeria/padel6.jpeg) |![Padel 7](/galeria/padel7.jpg) |![Padel 8](/galeria/padel8.jpg) |
+| ![Padel Banner](/galeria/padel_banner.jpg) | ![Padel](/galeria/padel.jpg) |![Padel 1](/galeria/padel1.jpg) | ![Padel 2](/galeria/padel2.jpeg) |![Padel 3](/galeria/padel3.jpeg) |![Padel 4](/galeria/padel4.jpg) |![Padel 5](/galeria/padel5.jpg) |![Padel 6](/galeria/padel6.jpeg) |![Padel 7](/galeria/padel7.jpg) |![Padel 8](/galeria/padel8.jpg) |
 
-## Galeria Tnis
+## Galeria Tenis
 
 | Imagem 1 | Imagem 2 | Imagem 3 | Imagem 4 | Imagem 5 | Imagem 6 | Imagem 7 | Imagem 8 | Imagem 9 | Imagem 10 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| ![Tenis Banner](/galeria/tenis_banner) | ![Tenis](/galeria/tenis.jpg) |![Tenis 1](/galeria/tenis1.jpg) | ![Tenis 2](/galeria/tenis2.jpg) |![Tenis 3](/galeria/tenis3.jpeg) |![Tenis 4](/galeria/tenis4.jpg) |![Tenis 5](/galeria/tenis5.jpg) |![Tenis 6](/galeria/tenis6.jpg) |![Tenis 7](/galeria/tenis7.jpg) |![Tenis 8](/galeria/tenis8.jpg) |
+| ![Tenis Banner](/galeria/tenis_banner.jpg) | ![Tenis](/galeria/tenis.jpg) |![Tenis 1](/galeria/tenis1.jpg) | ![Tenis 2](/galeria/tenis2.jpg) |![Tenis 3](/galeria/tenis3.jpeg) |![Tenis 4](/galeria/tenis4.jpg) |![Tenis 5](/galeria/tenis5.jpg) |![Tenis 6](/galeria/tenis6.jpg) |![Tenis 7](/galeria/tenis7.jpg) |![Tenis 8](/galeria/tenis8.jpg) |
+
+# Galeria Futebol
+
+| Imagem 1 | Imagem 2 | Imagem 3 | Imagem 4 | Imagem 5 |
+| -------- | -------- | -------- | -------- | -------- |
+| ![Futebol Banner](https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fmno_campo_jogos_parque_cidade_07.jpg&w=1460&q=85) | ![Futebol](/galeria/courts_1838_1554984559.jpg) |![Futebol 1](/galeria/large_14633358_1199378666775348_6425216611299065351_o.jpg) | ![Futebol 2](/galeria/campaign1.jp) |![Futebol 3](/galeria/2019-11-07.jpg) |
 
 ## Tecnologias
 No trabalho foram utilizadas as seguintes tecnologias:
