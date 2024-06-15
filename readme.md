@@ -12,18 +12,20 @@ Home (index.html)
 │
 
 ├── Campos (campos.html)
+
 │   ├── Futebol
 │   ├── Ténis
 │   └── Padel
 │
 
 ├── Reservas (reservas.html)
-│   ├── Selecione o Campo
-│   │   ├── Futebol
-│   │   ├── Ténis
-│   │   └── Padel
-│   ├── Escolha a Data e Hora
-│   └── Confirme a Reserva
+
+│  ├── Selecione o Campo
+   │   ├── Futebol
+│  │   ├── Ténis
+│  │   └── Padel
+│  ├── Escolha a Data e Hora
+│  └── Confirme a Reserva
 │
 
 └── Contactos (contactos.html)
