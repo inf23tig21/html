@@ -4,7 +4,7 @@
 # **Tecnologias Internet**
 ## Apresentação do projeto
 
-O nosso grupo escolheu desenvolver uma página web sobre o aluguer de campos de jogos dentro da área temática de "Desporto". Este projeto visa criar uma plataforma onde as pessoas podem encontrar e reservar campos de jogos para diferentes modalidades desportivas. O objetivo principal é criar um conjunto de, pelo menos, quatro páginas estáticas utilizando HTML5, CSS3 e JavaScript. Este trabalho permite-nos desenvolver habilidades práticas em desenvolvimento web, trabalho em grupo e gestão de projetos.
+O Grupo 21 escolheu desenvolver uma página web sobre o aluguer de campos de jogos dentro da área temática de "Desporto". Este projeto visa criar uma plataforma onde as pessoas podem encontrar e reservar campos de jogos para diferentes modalidades desportivas. O objetivo principal é criar um conjunto de, pelo menos, quatro páginas estáticas utilizando HTML5, CSS3 e JavaScript. Este trabalho permite-nos desenvolver habilidades práticas em desenvolvimento web, trabalho em grupo e gestão de projetos.
 
 ## Interface com o utilizador
 ### *Sitemap*
