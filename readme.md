@@ -1,5 +1,5 @@
 
-![N|Solid](/galeria/umaia.png)
+![UMAIA|Logo](/galeria/umaia.png)
 
 # **Tecnologias Internet**
 ## Apresentação do projeto
