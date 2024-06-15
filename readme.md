@@ -16,7 +16,7 @@ Home (index.html)
 │   ├── Futebol
 │   ├── Ténis
 │   └── Padel
-│
+
 
 ├── Reservas (reservas.html)
 
@@ -29,7 +29,7 @@ Home (index.html)
 │  ├── Escolha a Data e Hora
 
 │  └── Confirme a Reserva
-│
+
 
 └── Contactos (contactos.html)
 
