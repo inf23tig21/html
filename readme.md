@@ -171,6 +171,11 @@ CSS: O código CSS também passou nos testes de validação
 
 **Interatividade:** Utilizamos JavaScript para adicionar funcionalidades dinâmicas.
 
+## Aceder Aqui:
+
+https://inf23tig21.netlify.app/
+FIELD - Aluguer de Campos de Jogos
+
 ## Elementos do Grupo
 - António Manuel Estrela Magriço de Oliveira – nº 044409 @A044409
 - António Manuel Ferreira Lopes dos Santos Filipe - nº 044351 @AmFilipe
