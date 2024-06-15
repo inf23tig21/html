@@ -36,7 +36,6 @@ Home (index.html)
 
 |          Secção de Serviços                   |
 |-----------------------------------------------------|
- |
 | - Campos de Futebol                                 |
 |   - Imagem                                          |
 |   - Descrição                                       |
