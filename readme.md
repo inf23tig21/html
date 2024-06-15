@@ -9,7 +9,7 @@ O nosso grupo escolheu desenvolver uma página web sobre o aluguer de campos de 
 ## Interface com o utilizador
 ### *Sitemap*
 Home (index.html)
-│
+
 
 ├── Campos (campos.html)
 
