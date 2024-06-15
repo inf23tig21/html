@@ -10,11 +10,13 @@ O nosso grupo escolheu desenvolver uma página web sobre o aluguer de campos de 
 ### *Sitemap*
 Home (index.html)
 │
+
 ├── Campos (campos.html)
 │   ├── Futebol
 │   ├── Ténis
 │   └── Padel
 │
+
 ├── Reservas (reservas.html)
 │   ├── Selecione o Campo
 │   │   ├── Futebol
@@ -23,6 +25,7 @@ Home (index.html)
 │   ├── Escolha a Data e Hora
 │   └── Confirme a Reserva
 │
+
 └── Contactos (contactos.html)
 
 
