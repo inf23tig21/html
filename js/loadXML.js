@@ -69,4 +69,4 @@ function processXML(xmlDoc) {
 }
 
 // Chame a função com o nome do arquivo XML
-loadXMLDoc('xml/horario.xml');
+loadXMLDoc('xml/reserva_campo1.xml');
