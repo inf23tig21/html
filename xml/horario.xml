@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AluguerCampos>
+<Campos>
     <List>
         <Nome>Campo de Futebol 1</Nome>
         <Localizacao>Rua, 123</Localizacao>
@@ -119,4 +119,4 @@
             <HorarioFechoFimSemana>22:00:00</HorarioFechoFimSemana>
         </FimSemana>
     </List>
-</AluguerCampos>
+</Campos>
