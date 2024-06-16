@@ -18,6 +18,7 @@ function loadXMLDoc(filename) {
         var nome = list.getElementsByTagName("Nome")[0].textContent;
         var localizacao = list.getElementsByTagName("Localizacao")[0].textContent;
         var tipo = list.getElementsByTagName("Tipo")[0].textContent;
+        var dia = list.getElementsByTagName("Dia")[0].textContent;
         var horarioSemana = list.getElementsByTagName("HorarioAberturaSemana")[0].textContent + " - " + list.getElementsByTagName("HorarioFechoSemana")[0].textContent;
         var horarioFimSemana = list.getElementsByTagName("HorarioAberturaFimSemana")[0].textContent + " - " + list.getElementsByTagName("HorarioFechoFimSemana")[0].textContent;
 
@@ -26,6 +27,7 @@ function loadXMLDoc(filename) {
                             "<h4>" + nome + "</h4>" +
                             "<p><strong>Localização:</strong> " + localizacao + "</p>" +
                             "<p><strong>Tipo:</strong> " + tipo + "</p>" +
+                            "<p><strong>Dia:</strong> " + dia + "</p>" +
                             "<p><strong>Horário Semana:</strong> " + horarioSemana + "</p>" +
                             "<p><strong>Horário Fim de Semana:</strong> " + horarioFimSemana + "</p>" +
                             "</div>";
@@ -36,11 +38,11 @@ function loadXMLDoc(filename) {
             case "Futebol":
                 sectionId = "campos-futebol";
                 break;
-             case "Tenis":
-                sectionId = "campos-tenis";
-                break
             case "Padel":
                 sectionId = "campos-padel";
+                break;
+            case "Tenis":
+                sectionId = "campos-tenis";
                 break;
             default:
                 continue; // Ignorar tipos desconhecidos
