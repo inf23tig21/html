@@ -4,7 +4,7 @@ var images1 = [
     "galeria/large_14633358_1199378666775348_6425216611299065351_o.jpg",
     "galeria/campaign1.jpg",
     "galeria/2019-11-07.jpg"
-    // Adicione mais imagens conforme necessário
+    // Adicionar mais imagens conforme necessário
 ];
 
 var images2 = [
@@ -17,7 +17,7 @@ var images2 = [
     "galeria/padel6.jpeg",
     "galeria/padel7.jpg",
     "galeria/padel8.jpg"
-    // Adicione mais imagens conforme necessário
+    // Adicionar mais imagens conforme necessário
 ];
 
 var images3 = [
@@ -30,7 +30,7 @@ var images3 = [
     "galeria/tenis6.jpg",
     "galeria/tenis7.jpg",
     "galeria/tenis8.jpg"
-    // Adicione mais imagens conforme necessário
+    // Adicionar mais imagens conforme necessário
 ];
 
 var currentIndex1 = 0;

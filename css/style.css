@@ -8,7 +8,7 @@ dt {
 
 header {
     background-attachment: scroll;
-    background-image: url('header.jpg');
+    background-image: url('../galeria/header.jpg');
     background-size: cover; /* Make sure the background covers the whole header */
     background-position: center; /* Center the background image */
     text-align: center;
@@ -34,7 +34,7 @@ h1 {
     letter-spacing: 2px; /* Espaçamento entre letras para um efeito moderno */
     text-transform: uppercase; /* Transforma o texto para maiúsculas */
     border-radius: 10px; /* Bordas mais arredondadas */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Sombra para o contêiner do título */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Sombra para o conteiner do título */
     display: inline-block; /* Faz o fundo envolver apenas o texto */
     font-size: 30px;
 }
