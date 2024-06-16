@@ -58,6 +58,7 @@ button {
     color: black; /* Cor do texto do botão */
     padding: 10px 20px; /* Espaçamento interno do botão */
     border: double;
+    border: 1px solid rgba(255, 255, 255, 0.7); /* Borda branca translúcida */
     cursor: pointer; /* Cursor do mouse ao passar sobre o botão */
 }
 
