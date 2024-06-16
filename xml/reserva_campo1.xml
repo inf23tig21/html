@@ -102,8 +102,8 @@
         	<HorarioFechoSemana>22:00:00</HorarioFechoSemana>
         </Dia>
         <FimSemana>Sábado e Domingo
-            <HorarioAberturaFimSemana>08:00:00</HorarioAberturaFimSemana>
-            <HorarioFechoFimSemana>22:00:00</HorarioFechoFimSemana>
+            <HorarioAbertura>08:00:00</HorarioAbertura>
+            <HorarioFecho>22:00:00</HorarioFecho>
         </FimSemana>
     </List>
 	<List>
