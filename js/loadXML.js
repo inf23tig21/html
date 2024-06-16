@@ -1,5 +1,3 @@
-// loadXML.js
-
 // Função para carregar e processar o XML
 function loadXMLDoc(filename) {
     var xhttp;
@@ -53,10 +51,10 @@ function displayXML() {
         infoLocalizacao.textContent = "Localização: " + localizacao;
 
         var infoDiaSemana = document.createElement("p");
-        infoDiaSemana.innerHTML = "<strong>Dias de Semana:</strong><br>" + diaSemana + "<br><strong>Horário:</strong> " + horarioSemana;
+        infoDiaSemana.innerHTML = "<strong>Dias da Semana:</strong><br>" + diaSemana + horarioSemana;
 
         var infoFimSemana = document.createElement("p");
-        infoFimSemana.innerHTML = "<strong>Fim de Semana:</strong><br>" + fimSemana + "<br><strong>Horário:</strong> " + horarioFimSemana;
+        infoFimSemana.innerHTML = "<strong>Fim de Semana:</strong><br>" + fimSemana + horarioFimSemana;
 
         // Adicionando elementos ao divCampo
         divCampo.appendChild(tituloCampo);
