@@ -54,7 +54,7 @@ function displayXML() {
         infoDiaSemana.innerHTML = "<strong>Dias da Semana:</strong><br>"  + horarioSemana;
 
         var infoFimSemana = document.createElement("p");
-        infoFimSemana.innerHTML = "<strong>Fim de Semana:</strong><br>" + fimSemana + horarioFimSemana;
+        infoFimSemana.innerHTML = "<strong>Fim de Semana:</strong><br>" + horarioFimSemana;
 
         // Adicionando elementos ao divCampo
         divCampo.appendChild(tituloCampo);
