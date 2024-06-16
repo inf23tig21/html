@@ -36,11 +36,11 @@ function loadXMLDoc(filename) {
             case "Futebol":
                 sectionId = "campos-futebol";
                 break;
+             case "Tenis":
+                sectionId = "campos-tenis";
+                break
             case "Padel":
                 sectionId = "campos-padel";
-                break;
-            case "Tenis":
-                sectionId = "campos-tenis";
                 break;
             default:
                 continue; // Ignorar tipos desconhecidos
