@@ -3,6 +3,7 @@
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 20px;
+    margin-left: 10px; /* Espaçamento adicional para os detalhes */
 }
 .campo {
     width: 30%;
@@ -14,6 +15,4 @@
     border-left: 2px solid #ccc; /* Linha lateral para destacar os campos */
 }
 
-.detalhes {
-    margin-left: 10px; /* Espaçamento adicional para os detalhes */
-}
+
